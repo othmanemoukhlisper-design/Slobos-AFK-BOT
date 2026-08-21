@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "Dohaland.aternos.me",
+    "port": 43617,
     "version": "",
     "try-creative": false
   },
